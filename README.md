@@ -1,2 +1,2 @@
-# BS-server-Priv-
+# BS-server-Privé
 Serveur privé BS Open Source
